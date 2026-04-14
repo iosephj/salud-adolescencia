@@ -1,11 +1,9 @@
 ---
 title: "Salud y Adolescencia (4to año)"
 autor: "José Juarez"
-version: "01/04/25"
+version: "01/04/26"
 ---
 
-<span hidden>Local path of the file: "H:/"</span>
-<span hidden>Local path of images: "H:/"</span>
 
 <br>
 
@@ -43,12 +41,11 @@ version: "01/04/25"
 
 - [2. Felicidad](02_felicidad.html)
 
+- [3. El concepto de salud](03_salud.html)
+
+
 <div class hidden>
 
-
-- [2. Pensando en mi futuro (Alternancia 1)](02_mi_futuro.html)
-
-- [3. La Felicidad](03_felicidad_ted.html)
 
 - [4. La salud (Alternancia 2)](04_salud.html)
 

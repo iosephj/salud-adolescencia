@@ -1,9 +1,18 @@
 ---
 title: "2. Felicidad"
 autor: "José Juarez"
-version: "19/03/25"
+version: "19/03/26"
 ---
 
+
+<!-- Image -->
+<br>
+   <center>![](https://imgs.search.brave.com/PQs8K1DA4RHvStzbWEg9udpStjJzf1mjFrkxiKNHJKQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTI3/MjI5NjQ0L2VzL2Zv/dG8vcGxhbnRhY2kl/QzMlQjNuLWRlLXNl/bWlsbGFzLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1EcTln/blpYRFQwc0tBc1Ut/WHZ1aDBGUlB0VEZ0/bmVuUHFXRENwdzJm/RXdzPQ){width=400px}</center>
+   <center>
+      <span class="grey3 size70">Ser más feliz requiere el trabajode cultivar... </span>
+      <span class="grey3 size50">Fuente: istockphoto.com </span>
+   </center>
+<br>
 
 
 <!-- *** GUIDE START *** -->
