@@ -14,15 +14,14 @@ version: "01/04/26"
 
 <div class="size80">
 
-
-<div class hidden>
 **Criterios de aprobación**
 
+- **Bimestre 1:** Tener **A** en Guía 2 y al menos haber presentado la Guía 3.
+
+
+<div class hidden>
 - **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
-   + **Bimestre 1:** Tener **A** en Guía 2 (Alt. 1) y Guía 4 (Alt. 2)
-   + **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
-
-
+  + **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
    + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
 </div>
@@ -40,10 +39,13 @@ version: "01/04/26"
 - [1. Introducción](01_introd.html)
 
 - [2. Felicidad](02_felicidad.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 1: presentarla completa.</span> 
 
 - [3. El concepto de salud](03_salud.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 2: desarrollar puntos 4 y 5.</span> 
 
 - [4. El derecho a la salud](04_salud_derecho.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 3: desarrollar puntos 1 y 2.</span> 
 
 
 <div class hidden>
@@ -75,9 +77,7 @@ version: "01/04/26"
 
 ---
 
-<div class hidden>
-**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
-</div>
+**Verifica** tu progreso [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
 
 <!-- HTML style definitions -->
 <style>
