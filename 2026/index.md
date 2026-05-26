@@ -43,13 +43,12 @@ version: "01/04/26"
 
 - [3. El concepto de salud](03_salud.html)
 
+- [4. El derecho a la salud](04_salud_derecho.html)
+
 
 <div class hidden>
 
 
-- [4. La salud (Alternancia 2)](04_salud.html)
-
-- [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
 
 - [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
 
