@@ -22,35 +22,48 @@ Este derecho implica para el Estado la obligación de garantizar el acceso a ser
 
 A la vez existen responsabilidades personales como el cuidado de la propia salud, el respeto por la de los demás y la contribución al bienestar colectivo.
 
-**Actividad**
+#### Actividad
 
-1. Copiar estos tres párrafos en la carpeta. 
-2. Cada párrafo tiene como una idea principal que se puede sintetizar en una palabra. Elige de esta lista cuales son las tres palabras más acertadas: Discriminación, Derecho, Obligación, Servicios, Responsabilidades, Bienestar, Social.
-3. La imagen que encabeza este tema aporta dos ideas. Inventa una nueva imagen que tenga en cuenta las tres palabras (ideas) del punto anterior.
-
+1. Copiar estos tres párrafos en la carpeta.
+2. En los párrafos anteriores hay tres palabras importantes que son las que están en la columna de la izquierda abajo. Une cada palabra con la que le corresponde de la derecha.
 
 
-<div hidden>
+```
+Derecho                        Estado            
 
-También es importante considerar que los derechos normalmente suponen obligaciones, no solo para el Estado sino también para los individuos. En el caso del derecho a la salud, esto implica el deber personal de cuidarse a uno mismo, de proteger la salud de quienes nos rodean, y de contribuir al bienestar colectivo.
+Obligaciones                   Cuidar la propia salud
+
+Responsabilidad                Persona
+
+```
+
+3. La imagen que encabeza esta guía contiene dos de las tres palabras importantes. Dibuja una nueva imagen que contenga las tres palabras importantes poniendo la que falta en una ubicación correcta.
+
+
+<br>
+
+
+### 2. La propia responsabilidad
 
 El derecho a la salud no es un permiso para desentenderse del propio cuerpo, sino todo lo contrario: es una invitación a asumir un compromiso activo.
 Cada persona tiene responsabilidades como:
 
 - Alimentarse adecuadamente.
-
 - Evitar conductas de riesgo (como el consumo excesivo de alcohol, tabaco u otras drogas).
-
 - Cumplir con esquemas de vacunación y controles médicos.
-
 - Cuidar la salud mental.
-
 - Actuar con responsabilidad frente a enfermedades transmisibles (como el uso del barbijo durante una pandemia).
 
-<span hidden class="grey3 size85">**Reflexión:** No nos hemos dado la vida a nosotros mismos. La vida es en última instancia un don de Dios. El nos ha querido primero. Hemos de cuidar ese don y hacerlo fructificar como quiere el Creador. Esta es la razón más profunda por la que no debemos atentar contra nuestra vida ni contra nuestra salud, ni contra las de los demás.</span>
+#### Actividad
+
+1. Investigar cual es el plan de vacunación en nuestro pais para los niños y adolescentes.
+2. Escribe un comentario sobre esta reflexión: La razón profunda por la que no debemos atentar contra nuestra vida, ni contra nuestra salud o la de otros, es que ninguno se ha dado la vida a sí mismo ni puede darla a otros, la vida de cada uno es un don.
 
 
-<br><br>
+<br>
+
+<div hidden>
+
 
 
 ## Actividad 1: La salud en nuestro pais
