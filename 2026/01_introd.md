@@ -4,8 +4,6 @@ autor: "José Juarez"
 version: "10/03/26"
 ---
 
-<span hidden>Local path of the file: "H:/"</span>
-<span hidden>Local path of images: "H:/"</span>
 
 <!-- Image -->
 <br>
@@ -19,33 +17,30 @@ version: "10/03/26"
 
 
 <!-- *** GUIDE START *** -->
-## Actividad 1
 
-Buscar y escribir el significado de: "old habits", "new habits", "hábito", "virtud", "vicio".
+## Introducción
 
+La adolescencia es un periodo de cambios profundos en nuestra vida. Es tan importante conocer esos cambios como cultivar hábitos saludables que luego perduran toda la vida. Por ejemplo si a esta edad se cultiva el hábito de comer saludablemente será mucho más fácil luego continuar el hábito y vivir mejor.
 
-<br><br>
-
-
-## Actividad 1
-
-En base a las explicaciones de clase poner un título conveniente y copiar este texto en la carpeta poniendo en cada "raya" la palabra correcta que falta (en cada raya va una sola palabra). 
+En esta guía vamos a trabajar y reflexionar sobre algunas cosas básicas e introductorias.
 
 
-La adolescencia es una etapa de muchos ______: físicos, emocionales y sociales. Durante estos años, el cuerpo crece y se desarrolla, y la mente empieza a tomar decisiones más complejas.
+**Actividad:**
+
+
+**1)** Buscar y escribir el significado de: "old habits", "new habits", "hábito", "virtud", "vicio".
+
+**2)** En base a las explicaciones de clase poner un título conveniente y copiar este texto en la carpeta poniendo en cada "raya" la palabra correcta que falta (en cada raya va una sola palabra). 
+
+*La adolescencia es una etapa de muchos ______: físicos, emocionales y sociales. Durante estos años, el cuerpo crece y se desarrolla, y la mente empieza a tomar decisiones más complejas.
 
 Los hábitos de salud son fundamentales en esta ______. Dormir bien, alimentarse de forma equilibrada y hacer actividad física ayudan al cuerpo a ______ correctamente. También es _____ cuidar la salud emocional y aprender a manejar el estrés, los cambios de humor y las relaciones con amigos y familiares.
 
 Hoy los adolescentes ______ retos nuevos: el uso de redes sociales, la exposición a información rápida y a veces confusa, y las presiones escolares o sociales. Esto ______ afectar el sueño, la alimentación y la autoestima.
 
-Aprender a reconocer estos cambios y tomar decisiones saludables es un paso importante para sentirse bien y enfrentar los desafíos de la _____ cotidiana.
+Aprender a reconocer estos cambios y tomar decisiones saludables es un paso importante para sentirse bien y enfrentar los desafíos de la _____ cotidiana.*
 
-
-<br><br>
-
-## Actividad 3
-
-Armar un juego de palabras cruzadas usando las palabras del texto anterior. También se puede usar sinónimos de las palabras.
+**3)** Opcional: Armar un juego de palabras cruzadas usando las palabras del texto anterior. También se puede usar sinónimos de las palabras.
 
 
 
