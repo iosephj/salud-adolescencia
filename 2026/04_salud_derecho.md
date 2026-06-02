@@ -62,41 +62,53 @@ Cada persona tiene responsabilidades como:
 
 <br>
 
-<div hidden>
 
+### 3. Las obligaciones del estado
 
+El derecho a la salud está reconocido en numerosos ámbitos internacionales, como la Organización Mundial de la Salud y el Pacto Internacional de Derechos Económicos, Sociales y Culturales, pero los países difieren mucho en cuánto asume el Estado para garantizarlo.
 
-## Actividad 1: La salud en nuestro pais
+* **En Argentina**, la Constitución y los tratados con jerarquía constitucional reconocen el derecho a la salud. El Estado tiene obligaciones directas de prevención, atención y acceso, y existe un sistema público gratuito que debe atender a cualquier persona, además de obras sociales y medicina privada.
 
-Ahora verás como se establece el derecho a la salud y como se organiza el sistema de salud en nuestro pais. Primero copia estas preguntas que deberás responder "brevisimamente" en base a este [video](https://www.youtube.com/watch?v=KaU_OhmarlA).
+* En otros paises, por ejemplo Estados Unidos, no existe un derecho constitucional explícito a la salud ni una obligación general de brindar atención médica universal. El acceso depende principalmente de seguros privados, aunque existen programas públicos como Medicare y Medicaid.
 
-- **1)** ¿Cuáles son los artículos de la Constitución Nacional en donde encontramos el derecho a la salud?
+En resumen, ambos países reconocen la importancia de la salud, pero Argentina adopta un modelo donde el Estado asume una responsabilidad más amplia y directa, mientras que Estados Unidos se apoya mucho más en el mercado y los seguros privados.
+
+#### Actividad
+
+<span class= "grey3 size80">(Puede hacerse en grupos)</span>
+
+**1)** Más detalles sobre como se establece el derecho a la salud y como se organiza el sistema de salud en nuestro pais. Primero copia estas preguntas que deberás responder "brevisimamente" en base a este [video](https://www.youtube.com/watch?v=KaU_OhmarlA).
+
+- **a)** ¿Cuáles son los artículos de la Constitución Nacional en donde encontramos el derecho a la salud?
 
 <span hidden class="blue2">**Solución:** El 41, 42 y 75</span>
 
-- **2)** Nombrar los tres subsistemas de salud que existen en Argentina
+- **b)** Nombrar los tres subsistemas de salud que existen en Argentina
 
 <span hidden class="blue2">**Solución:** 1) Subsistema público. 2) Subsistema de la seguridad social. 3) Subsistema privado.</span>
 
-- **3)** Nombrar otras 3 formas de acceder a servicios de salud. 
+- **c)** Nombrar otras 3 formas de acceder a servicios de salud. 
 
 <span hidden class="blue2">**Solución:** 1) Programa de atención médica integral PAMI. 2) Programa Incluir Salud (para personas con certificado único de discapacidad). 3) Programa del monotributo social.</span>
 
-- **4)** Tu opinión brevemente: ¿Se puede decir que en Argentina todas las personas pueden acceder a servicios de salud? 
+**2)** Conversar en grupo lo siguiente: ¿Se puede decir que en Argentina normalmente las personas pueden acceder a servicios de salud? ¿En que lugares que tu conoces es más fácil y donde puede ser más difícil? Escribe un breve resumen de lo hablado.
+
+<span hidden>**3)** Elige uno de los subsistemas de salud (pregunta b) o de las otras formas de acceder a la salud (pregunta c). Investiga por tu cuenta y escribe un resumen de 5 renglones sobre como funcionan. Una primera fuente de información es el video pero puede buscar otras.</span>
 
 
-<br><br>
+<br>
 
 
-## Actividad 2
+### La salud en otros paises (Japón)
 
-Elige uno de los subsistemas de salud (pregunta b) o de las otras formas de acceder a la salud (pregunta c). Investiga por tu cuenta y escribe un resumen de 5 renglones sobre como funcionan. Una primera fuente de información es el video pero puede buscar otras.
-
-
-<br><br>
+Siempre es bueno ver como otros resuelven los mismos problemas. Mira en este [video](https://www.youtube.com/watch?v=1KA-vhCYw1U) como es en otro extremo del mundo en Japón.
 
 
-## Salud y desarrollo social
+
+
+<div hidden>
+
+Salud y desarrollo social
 
 <span hidden>Image</span>
    <center>![](https://media.telemetro.com/p/98f4c6b60046b15cc67104a8812cd360/adjuntos/311/imagenes/018/683/0018683824/855x0/smart/estudiante-escuelajpg.jpg){width=400px}</center>
