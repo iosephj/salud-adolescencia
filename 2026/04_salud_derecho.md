@@ -99,12 +99,55 @@ En resumen, ambos países reconocen la importancia de la salud, pero Argentina a
 <br>
 
 
-### La salud en otros paises (Japón)
+### 4. La salud en otros paises
 
-Siempre es bueno ver como otros resuelven los mismos problemas. Mira en este [video](https://www.youtube.com/watch?v=1KA-vhCYw1U) como es en otro extremo del mundo en Japón.
+Muchos problemas complejos, como el de la gestión de la salud pública, admiten soluciones diversas. Y eso pasa mucho en la vida, no hay un único modo perfecto de hacer las cosas, y por eso conviene respetar el punto de vista de otro, escuchar, reflexionar, aprender, incorporar y valorar lo bueno que puede haber en otros.
+
+#### Actividad
+
+**1)** Mira en este [video](https://www.youtube.com/watch?v=1KA-vhCYw1U) como es en otro extremo del mundo en Japón. Traduce a pesos los valores que se nombran.
+
+**2)** Podemos resumir estos sistemas de salud así:
+
+- Argentina: público - obras sociales - prepagas
+- EE. UU.: seguros privados
+- Japón: seguro social universal
+
+**La consigna:** "Una persona de 45 años sufre una fractura de fémur jugando al fútbol y necesita cirugía y prótesis. Analicen y debatan: ¿Cómo se financia su atención, adónde asiste y qué impacto económico tiene para su bolsillo si vive en: a) Buenos Aires, b) Nueva York, c) Tokio? Justifiquen con lo aprendido en clase y den la opinión del grupo sobre cuál sistema equilibra mejor la justicia social y la sustentabilidad económica". 
+
+<br>
+
+### 5. El próximo virus
+
+Algunos, y con razones fundadas, estiman que en muchos lugares y paises (Europa, Argentina, el peor: Japón) la población está envejeciendo de modo que dentro de un tiempo no va a ser posible sostenerla. Un caso paradigmático es Japón donde desde hace décadas tienen una taza de nacimientos por abajo de lo que se necesita para sostener vitalmente a la sociedad.
 
 
+#### Actividad:
 
+El siguiente es un pequeño artículo de opinión que podría haber aparecido en algún diario. Este tipos de artículos combinan datos reales con la opinión del autor.
+
+***¿El próximo virus? El envejecimiento: El milagro japonés que se convirtió en pesadilla***
+
+*Japón es uno de ls paises con mayor expectativa de vida del mundo, un verdadero triunfo de la medicina moderna y de su sistema de salud universal. Sin embargo, este éxito esconde su mayor trampa. Con la tasa de natalidad en mínimos históricos, Japón se está transformando en un gigantesco geriátrico a cielo abierto: casi un tercio de su población supera los 65 años.*
+
+*El problema ya no es médico, es matemático. ¿Quién sostiene un sistema de salud hipertecnológico cuando hay más pañales para adultos que para bebés en los supermercados? Menos jóvenes trabajando significa menos personas pagando impuestos y aportes. Mientras tanto, el gasto médico se dispara a niveles astronómicos para mantener a una población anciana que requiere cuidados crónicos costosos. Japón descubrió la receta para vivir más, pero se quedó sin fondos ni médicos jóvenes para atender a sus abuelos. ¿Es el modelo japonés un espejo del futuro o un sistema perfecto que marcha directo al colapso?*
+
+**Consigna:**
+
+**a)** Comprueba por internet como es la tasa de natalidad en Japón y si está en sus mínimos históricos.
+
+**b)** El texto plantea que el sistema japonés es víctima de su propio éxito. Expliquen con sus palabras cual es la contradicción matemática que sufre su financiamiento.
+
+**c)** Averigua cual es la tasa de natalidad en Argentina y si estamos por encima o por abajo de lo mínimo para el equilibrio poblacional.
+
+**d)** En tu opinión cual es la causa de haya menos nacimientos en tantos países, y que aun sabiéndo que así se colapsa, no se pueda solucionar el problema.
+
+<div hidden>
+Cruzar fronteras: Si Japón sufre por el envejecimiento, ¿cuál es el principal "problema de fondo" que tensiona al sistema de salud de Estados Unidos y cuál al de Argentina? (Busquen ir más allá de "es caro" o "faltan insumos"; piensen en quién tiene el poder o el control en cada modelo).
+
+Opinión grupal: Frente a la frase final: si tuvieran que elegir dónde enfermarse hoy económicamente y por calidad de atención, ¿preferirían la vejez en Japón, la juventud trabajadora en EE. UU. o el sistema fragmentado pero público de Argentina? Justifiquen la elección del grupo.
+(Pendiente)
+</div>
 
 <div hidden>
 

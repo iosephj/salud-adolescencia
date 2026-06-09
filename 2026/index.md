@@ -46,6 +46,10 @@ version: "01/04/26"
 
 - [4. El derecho a la salud](04_salud_derecho.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 3: desarrollar puntos 1 y 2.</span> 
+   <br>&emsp;<span class="grey3 size80">Alternancia 4: desarrollar el punto 5.</span> 
+
+- [5. Sistema sanitario en mi comunidad](05_sistema_salud_local.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 4: desarrollar todos los puntos.</span> 
 
 
 <div class hidden>
