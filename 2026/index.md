@@ -16,7 +16,7 @@ version: "01/04/26"
 
 **Criterios de aprobación**
 
-- **Bimestre 1:** Tener **A** en Guía 2 y al menos haber presentado la Guía 3.
+- **Bimestre 1:** Tener **A** en Guía 2 y al menos haber presentado la tarea de alternancia 2 de la Guía 3.
 
 
 <div class hidden>
@@ -46,7 +46,6 @@ version: "01/04/26"
 
 - [4. El derecho a la salud](04_salud_derecho.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 3: desarrollar puntos 1 y 2.</span> 
-   <br>&emsp;<span class="grey3 size80">Alternancia 4: desarrollar el punto 5.</span> 
 
 - [5. Sistema sanitario en mi comunidad](05_sistema_salud_local.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 4: desarrollar todos los puntos.</span> 
@@ -54,7 +53,7 @@ version: "01/04/26"
 
 <div class hidden>
 
-
+- [6. Salud pública y población]() Desarrollar esto
 
 - [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
 
@@ -81,7 +80,7 @@ version: "01/04/26"
 
 ---
 
-**Verifica** tu progreso [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
+**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
 
 <!-- HTML style definitions -->
 <style>

@@ -115,7 +115,8 @@ Muchos problemas complejos, como el de la gestión de la salud pública, admiten
 
 **La consigna:** "Una persona de 45 años sufre una fractura de fémur jugando al fútbol y necesita cirugía y prótesis. Analicen y debatan: ¿Cómo se financia su atención, adónde asiste y qué impacto económico tiene para su bolsillo si vive en: a) Buenos Aires, b) Nueva York, c) Tokio? Justifiquen con lo aprendido en clase y den la opinión del grupo sobre cuál sistema equilibra mejor la justicia social y la sustentabilidad económica". 
 
-<br>
+
+<div hidden>
 
 ### 5. El próximo virus
 
@@ -141,6 +142,11 @@ El siguiente es un pequeño artículo de opinión que podría haber aparecido en
 **c)** Averigua cual es la tasa de natalidad en Argentina y si estamos por encima o por abajo de lo mínimo para el equilibrio poblacional.
 
 **d)** En tu opinión cual es la causa de haya menos nacimientos en tantos países, y que aun sabiéndo que así se colapsa, no se pueda solucionar el problema.
+
+</div>
+
+
+
 
 <div hidden>
 Cruzar fronteras: Si Japón sufre por el envejecimiento, ¿cuál es el principal "problema de fondo" que tensiona al sistema de salud de Estados Unidos y cuál al de Argentina? (Busquen ir más allá de "es caro" o "faltan insumos"; piensen en quién tiene el poder o el control en cada modelo).

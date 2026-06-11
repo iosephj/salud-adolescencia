@@ -1,27 +1,18 @@
 ---
-title: "6. Sistema sanitario argentino en mi comunidad"
+title: "5. Sistema sanitario en mi comunidad"
 autor: "José Juarez"
 version: "21/05/25"
 ---
 
-<span hidden>Local path of the file: "H:/cfr/sad4/"</span>
-<span hidden>Local path of images: "H:/cfr/sad4/_i/"</span>
-
-
-## Introducción
 
 <span hidden>Image</span>
-   <center>![](https://universidadeshoy.com.ar/uploads/noticias/5/2025/02/20250213094345_prueba-62.jpg){width=500px}</center>
+   <center>![](salud-comunitaria-local.png){width=400px}</center>
 
-En la unidad anterior viste como el derecho a la salud está amparado por la constitución Argentina. Por esto el estado tiene que proveer ciertos medios para que la salud pública se desarrolle bien.
+En la unidad anterior viste como el derecho a la salud está amparado por la constitución Argentina. Por esto el estado tiene que proveer ciertos medios para que la salud pública se desarrolle bien. En esta actividad investigarás como está realmente implementado en tu comunidad, es decir en las cercanías del lugar donde vives.
 
-El objetivo de esta actividad es conocer cómo se organiza el sistema de salud en el lugar donde vives.
+##### Actividad
 
-**Indicaciones importantes:**
-
-* Usá tus propias palabras para responder, de lo contrario el trabajo puede ser rechazado.
-
-* No copies y pegues definiciones: lo importante es que entiendas lo que investigaste.
+Usá tus propias palabras para responder, de lo contrario el trabajo puede ser rechazado.
 
 <div hidden>
 * Evaluá si identificaron correctamente los niveles de atención.
@@ -29,51 +20,24 @@ El objetivo de esta actividad es conocer cómo se organiza el sistema de salud e
 * Podés pedir que compartan oralmente lo que encontraron, si querés reforzar en clase.
 </div>
 
-
-<br><br>
-
-
-## Actividad 1: Investigación local
-
-Buscá información en tu barrio o localidad sobre **dos lugares donde se atiende la salud de las personas** (por ejemplo: salita, hospital, centro de atención, CAPS, etc.).
-
-**Para cada lugar, respondé brevemente:**
+**1)** **Investigación local:** Buscá información en tu barrio o localidad sobre **dos lugares donde se atiende la salud de las personas** (por ejemplo: salita, hospital, centro de atención, CAPS, etc.). Para cada lugar, respondé brevemente:
 
 - **a)** ¿Cómo se llama?
-
 - **b)** ¿Dónde queda?
-
 - **c)** ¿Qué tipo de atención brinda (urgencias, controles, vacunación, salud mental, etc.)?
-
 - **d)** ¿A qué nivel pertenece? (Nacional / Provincial / Municipal)
-
 - **e)** ¿Sabés si depende de algún programa o plan específico?
 
 Podés averiguar preguntando, buscando carteles, mirando su sitio web o redes, o incluso entrando a preguntar.
 
-
-<br><br>
-
-
-## Actividad 2: Reflexión personal
-
-**Respondé en unas pocas líneas:**
+**2)** **Reflexión personal** Responde breveente:
 
 - **a)**  ¿Te sorprendió algo de lo que descubriste? ¿Por qué?
-
 - **b)** ¿Cómo te parece que está organizada la atención de la salud en tu zona? ¿Funciona bien? ¿Qué mejorarías?
 
-
-<br><br>
-
-
-## Actividad 3: Conclusión general
+**3)** **Conclusión general:** En no más de **5 renglones**, explicá **qué aprendiste sobre cómo funciona el sistema de salud en Argentina a partir de tu investigación**.
 
 <div hidden> Esta es la actividad que más se mira con detalle en la corrección</div>
-
-Usá tus propias palabras de lo contrario el trabajo será rechazado.
-
-En no más de **5 renglones**, explicá **qué aprendiste sobre cómo funciona el sistema de salud en Argentina a partir de tu investigación**.
 
 
 
