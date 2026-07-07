@@ -1,133 +1,101 @@
 ---
-title: "Historia y objetivos de la salud pública"
+title: "Historia de la salud pública en Argentina"
 autor: "José Juarez"
-version: "6/5/25" 
+version: "29/06/26"
 ---
 
-<span hidden>Local path of the file: "H:/cfr/sad4/"</span>
-<span hidden>Local path of images: "H:/cfr/sad4/_i/"</span>
+<!-- *** GUIDE START *** -->
+
+![](https://insitulogistica.com.ar/wp-content/uploads/2022/01/Dia-de-la-fiebre-amarilla-web.jpg){width=500px}
+
+::: img-foot
+Epidemia de la fiebre amarilla en Bs.As.<small>(insitulogistica.com)</small>
+:::
+
+## 1. ¿Qué es la salud pública?
+
+Es el conjunto de acciones que realiza el Estado y la sociedad para proteger la salud de toda la población. Su objetivo no es solamente curar a las personas enfermas, sino también prevenir enfermedades, promover hábitos saludables y mejorar las condiciones de vida.
+
+Algunas acciones de salud pública son las campañas de vacunación, el control del agua potable, la recolección de residuos, la construcción de redes de cloacas, el control de alimentos y la educación para la prevención de enfermedades.
+
+## 2. Su historia
+
+La salud pública no nació repentinamente, y, como es común en muchas cosas, se desarrolló poco a poco hasta tener la forma que conocemos hoy. 
+
+Hubo un hecho en Buenos Aires que contribuyó a tomar más conciencia y darle un impulso más decidido: fue la epidemia de fiebre amarilla en 1871. [Aquí](https://www.youtube.com/watch?v=ZrFqVJT6EVw) puedes ver algunos datos sobre ella.
+
+::: activity
+
+### Actividad
+
+<span hidden>Puede hacerse en grupos</span>
+
+Lee este [texto](06_historia_salud_texto.html) que contiene un resumen de su historia.
+
+#### Parte A. Comprensión
+
+Responde explicando con tus palabras (no copiando):
+
+1) ¿Cuál es la diferencia entre curar una enfermedad y prevenirla?
+2) ¿Por qué las epidemias del siglo XIX provocaron cambios en las ciudades?
+3) ¿Qué ideas promovía Ramón Carrillo sobre la salud?
+
+#### Parte B. Completa la tabla
+
+| Período                 | Problema principal | ¿Qué hizo el Estado? | Resultado esperado |
+| ----------------------- | ------------------ | -------------------- | ------------------ |
+| Época colonial          |                    |                      |                    |
+| Epidemias del siglo XIX |                    |                      |                    |
+| Campañas de vacunación  |                    |                      |                    |
+| Ministerio de Salud     |                    |                      |                    |
+| Actualidad              |                    |                      |                    |
+
+#### Parte C. Ordena cronológicamente
+
+Escribe los siguientes hechos en orden, del más antiguo al más reciente: Creación del Ministerio de Salud; Campañas nacionales de vacunación; Hospitales de la época colonial; Epidemia de fiebre amarilla; Campañas actuales de prevención.
+
+#### Parte D. Reflexión
+
+Reflexionar y responder.
+
+1) Además de los hospitales, ¿qué otras acciones ayudan a cuidar la salud de una población?
+2) Mencionar tres ejemplos de acciones de salud pública que ustedes observen en su localidad.
+3) Desde tu mirada, y con lo que viste en esta unidad, que opinas de las acciones de salud pública en nuestro pais en la pandemia COVID 19
+
+::: warning
+Para aprobar esta guía debes presentarla completa y responder alguna pregunta del profesor. Aunque se haga en grupo cada integrante tiene toda la guía completa 
+:::
+
+:::
+
+<!-- *** GUIDE END *** -->
 
 
-## Introducción
+<!-- *** GUIDE AUXILIARY THINGS *** -->
 
-<span hidden>Image</span>
-   <center>![](https://insitulogistica.com.ar/wp-content/uploads/2022/01/Dia-de-la-fiebre-amarilla-web.jpg){width=500px}</center>
-   <center><span class="grey3 size80">Fuente: insitulogistica.com.ar</span></center>
+<!--
 
-Se puede decir que el sistema de salud pública de Buenos Aires empezó a tomar forma de un modo decidido con ocasión de la epidemia de fiebre amarilla que hubo en 1871. [Aquí](https://www.youtube.com/watch?v=ZrFqVJT6EVw) puedes escuchar como fue esta epidemia.
+● Sections: example, activity. soluciones, img-foot, warning, note
 
-
-<br><br>
-
-## Actividad 1
-
-A partir del video o de otra fuente de información **copia** y **completa** el siguiente texto reemplazando cada línea "______" por una sola palabra correcta. Si aparece una letra en medio de la línea significa que va una palabra que empieza con esa letra. Por ejemplo la primera es "___a___" y va "amarilla".
-
-*La epidemia de fiebre ___a___ que azotó Buenos Aires en 1871 fue una de las más devastadoras de la historia argentina, con alrededor de 14.000 muertos, especialmente en los barrios del ___s___. Comenzó en enero y se ______ rápidamente debido a las malas condiciones sanitarias, el hacinamiento y la falta de sistemas de alcantarillado. La ciudad quedó paralizada y muchas autoridades abandonaron sus cargos. En medio del caos, se ______ la labor del médico Guillermo Rawson, quien impulsó medidas sanitarias y sentó las ___b___ de la salud pública en el país. También fue crucial la acción de la recientemente creada Sociedad de Beneficencia y de voluntarios civiles como los "Caminantes de la Salud". La tragedia marcó un punto de inflexión en la ___o___ sanitaria de Buenos Aires.*
-</div>
-
-<div hidden>
-*La epidemia de fiebre ___a___amarilla___ que azotó Buenos Aires en 1871 fue una de las más devastadoras de la historia argentina, con alrededor de 14.000 muertos, especialmente en los barrios del ___s___sur___. Comenzó en enero y se ___propagó___ rápidamente debido a las malas condiciones sanitarias, el hacinamiento y la falta de sistemas de alcantarillado. La ciudad quedó paralizada y muchas autoridades abandonaron sus cargos. En medio del caos, se ___destacó___ la labor del médico Guillermo Rawson, quien impulsó medidas sanitarias y sentó las ___b___bases___ de la salud pública en el país. También fue crucial la acción de la recientemente creada Sociedad de Beneficencia y de voluntarios civiles como los "Caminantes de la Salud". La tragedia marcó un punto de inflexión en la ___o___organización___ sanitaria de Buenos Aires.*
-</div>
+::: example
+### Ejemplo: Cálculo de derivadas
+Aquí va el contenido de tu ejemplo. Puedes usar Markdown normal adentro.
+:::
 
 
-<br><br>
+● Image:
 
+![](imagen.png){width=400px}
+::: img-foot
+Este es el pie de la imagen <small>(Source: Book of Engineering, p. 45)</small>
+:::
 
-## Desarrollo histórico de la salud pública y comunitaria en Argentina
+● Videos:
 
-### Etapas clave:
+ Change XXX to video-id and put time in seconds
 
-**a. Siglo XIX – Higienismo:**
+ - Yotube with start point: [Mira este momento clave en el video](https://www.youtube.com/watch?v=XXX&t=123s)
 
-- Primeras medidas sanitarias (control de epidemias, cuarentenas, vacunación).
+ - Youtubetrimmer with start and end point: [Mirá este momento puntual del video](https://youtubetrimmer.com/view/?v=XXX&start=120&end=150&loop=0)
 
-- Creación del Departamento Nacional de Higiene (1880).
-
-- Enfoque centrado en el control de enfermedades transmisibles como la fiebre amarilla, el cólera, la viruela, la tuberculosis, la fiebre tifoidea, tifus, etc.
-
-**b. Siglo XX – Salud pública moderna:**
-
-- Se organiza el sistema de salud: hospitales públicos, obras sociales, sanatorios privados.
-
-- Se desarrollan campañas de vacunación, control de tuberculosis, lepra, chagas.
-
-- **Ramón Carrillo (ministro de Salud de Perón en 1946)**: impulsó hospitales, atención primaria, medicina preventiva, salud mental.
-
-**c. Décadas recientes – Salud comunitaria:**
-
-- Esta etapa se enfoca en las necesidades específicas de una comunidad (un barrio, una localidad, un grupo social). Implica el trabajo cercano con la población, la participación activa de vecinos, agentes sanitarios, organizaciones barriales, y el diseño de acciones adaptadas a su realidad concreta.
-
-<br><br>
-
-
-## Actividad 2
-
-Buscá y escribe quién fue Ramón Carrillo y qué aportes hizo a la salud pública en Argentina.
-
-
-<br><br>
-
-## Actividad 3: Objetivos de la salud pública y comunitaria
-
-Los objetivos de la salud pública son de sentido común. Están nombrados abajo pero en forma incompleta para que tu los copies completado con la palabra que falta: 
-
-**Objetivos:**
-
-- Prevenir ______.
-
-- Promover la ______.
-
-- Mejorar la ______ de vida.
-
-- Reducir desigualdades en salud.
-
-<div hidden>
-- Prevenir ___enfermedades___.
-
-- Promover la ___salud___.
-
-- Mejorar la ___calidad___ de vida.
-
-- Reducir desigualdades en salud.
-</div>
-
-
-<br><br>
-
-## Actividad 4:  
-
-**1)** En la etapa **a)** del **Higienismo** se nombran una serie de enfermedades que si bien están más controladas, aun existen. Elige una de estas enfermedades, alguna que te despierte curiosidad, investiga y escribe un texto de unos 5 renglones describiendo la enfermedad y los modos de evitarla.
-
-**2)** ¿En tu comunidad hay políticas de prevención de enfermedades? ¿Cuáles? ¿Qué barreras existen para acceder a una buena atención médica?
-
-
-
-<!-- HTML style definitions -->
-<style>
-/* Colors */
-.grey1 {color: #b3b3b3;} /* my light-grey */
-.grey2 {color: #999999;} /* my middle-grey */
-.grey3 {color: #808080;} /* my dark-grey */
-.blue1 {color: #6495ed;} /* nvim blue */
-.blue2 {color: #276cdf;} /* Andrew Ng Blue */
-.sky1 {color: #7dbed8;} /* nvim sky */
-.sky2 {color: #27a2db;}   /* my sky */
-.green {color: #81b524;} /* my green */
-.red1 {color: #ec5469;} /* my coral-red */
-.red2 {color: #f44336;} /* my red */
-.rose {color: #ec9998:} /* nvim rose */
-.gold {color: #df9d43;} /* Andrew Ng gold */
-.orange1 {color: #fda556;} /* nvim orange */
-.orange2 {color: #ff9505;} /*Andrew Ng orange */
-.purple1 {color: #ff40ff;} /* Andrew Ng purple */
-.purple2 {color: #d164d7;} /* Andrew Ng purple */
-/* Font Size */
-.size90 {font-size: 0.9em;}
-.size85 {font-size: 0.85em;}
-.size80 {font-size: 0.8em;}
-.size70 {font-size: 0.7em;}
-/* Document General Font Size */
-body {font-size: 1.3em;}
-</style>
-<!-- Use <span> inline and <div> with several lines --->
+-->

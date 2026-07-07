@@ -50,6 +50,9 @@ version: "01/04/26"
 - [5. Sistema sanitario en mi comunidad](05_sistema_salud_local.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 4: desarrollar todos los puntos.</span> 
 
+- [6. Historia de la salud pública en Argentina](06_historia_salud.html)
+
+- [7. Prevención y niveles de prevención en salud](07_prevención.html)
 
 <div class hidden>
 
