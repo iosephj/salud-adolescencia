@@ -16,12 +16,13 @@ version: "01/04/26"
 
 **Criterios de aprobación**
 
-- **Bimestre 1:** Tener **A** en Guía 2 y al menos haber presentado la tarea de alternancia 2 de la Guía 3.
+- **Cuantrimestre 1:** Tener **A** en Bimestre 1 y 2 (ambos)
+
+   + **Bimestre 1:** Tener **A** en Guía 2 y 3.
+   + **Bimestre 2:** Tener **A** en las Guías 4, 5, y 6.
 
 
 <div class hidden>
-- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
-  + **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
    + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
 </div>
@@ -52,11 +53,12 @@ version: "01/04/26"
 
 - [6. Historia de la salud pública en Argentina](06_historia_salud.html)
 
-- [7. Prevención y niveles de prevención en salud](07_prevención.html)
+- [7. Prevención y niveles de prevención en salud](07_prevencion.html)
+
+- [8. Salud y desarrollo social: un virus](04_salud_derecho_anexo.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 5: desarrollar todos los puntos.</span> 
 
 <div class hidden>
-
-- [6. Salud pública y población]() Desarrollar esto
 
 - [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
 
