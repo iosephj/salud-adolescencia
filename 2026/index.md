@@ -58,13 +58,11 @@ version: "01/04/26"
 - [8. Salud y desarrollo social: un virus](04_salud_derecho_anexo.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 5: desarrollar todos los puntos.</span> 
 
+- [9. Nutrición y adolescencia](08_nutricion.html)
+
+
+
 <div class hidden>
-
-- [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
-
-- [7. Historia y objetivos de la salud pública](07_historia_salud.html)
-
-- [8. Prevención de la salud (Alternancia 4)](08_prevencion.html)
 
 - [9. Nutrición y adolescencia (Alternancia 5)](09_nutricion.html)
 

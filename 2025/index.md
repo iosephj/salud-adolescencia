@@ -25,7 +25,9 @@ version: "01/04/25"
 
 
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
-   + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
+   + **Bimestre 3:** Guías 9 y 10
+   + **Bimestre 4:** Guías 11, 12 y 13
+   + **Para aprobar:** Tener A en 4 de las 5 guías (9, 10, 11, 12 y 13).
 
 </div>
 

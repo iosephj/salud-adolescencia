@@ -6,7 +6,16 @@ version: "10/08/26"
 
 <!-- *** GUIDE START *** -->
 
-## ¿Comer bien significa comer perfecto?
+::: figure
+![](../images/nutricion-portada.png){width=400px}
+
+<small>La variedad es importante</small>
+:::
+
+
+
+
+## Introducción
 
 Durante la adolescencia el cuerpo crece y cambia, por lo que necesita energía y nutrientes adecuados.
 
@@ -89,198 +98,57 @@ En pareja:
 
 :::
 
-<div hidden>
 
+## 4. Alimentación, malnutrición y trastornos de la conducta alimentaria
 
+La **malnutrición** aparece cuando la alimentación no proporciona al organismo lo que necesita. Puede estar relacionada tanto con una alimentación insuficiente como con un exceso o desequilibrio de nutrientes.
 
-# 4. ¿Qué significa estar bien alimentado?
+La **desnutrición** se produce cuando el organismo no recibe suficiente energía o nutrientes durante un período prolongado.
 
-La **malnutrición** ocurre cuando la alimentación no aporta al organismo lo que necesita, tanto por exceso como por defecto.
+El **sobrepeso y la obesidad** se relacionan con una acumulación excesiva de grasa corporal y pueden aumentar el riesgo de distintos problemas de salud.
 
-Puede relacionarse con diferentes situaciones.
+### Trastornos de la conducta alimentaria (TCA)
 
-### Desnutrición
+Los TCA, como la anorexia y la bulimia, son problemas de salud en los que la relación con la comida, el peso y la imagen corporal se vuelve perjudicial. Tienen componentes psicológicos, sociales y biológicos, y pueden afectar seriamente la salud física y mental. Pueden aparecer durante la adolescencia y requieren atención y acompañamiento profesional.
 
-Se produce cuando el organismo no recibe suficiente energía o nutrientes durante un período de tiempo. Puede afectar el crecimiento, el desarrollo y el funcionamiento del organismo.
+Los TCA no son una cuestión de falta de voluntad ni una elección. Pueden afectar seriamente la salud física y mental.
 
-### Sobrepeso y obesidad
+Este [video](https://www.youtube.com/watch?v=2UcCN6fztmM) ilustra más este tema. 
 
-Se relacionan con una acumulación excesiva de grasa corporal y pueden aumentar el riesgo de desarrollar distintos problemas de salud.
+#### Anorexia nerviosa [⌕](../images/nutricion-anorexia.png) 
 
-Pero es importante recordar algo:
+Existe una preocupación intensa por el peso y la imagen corporal que lleva a restringir la alimentación y, en algunos casos, a realizar ejercicio excesivo u otras conductas para controlar el peso.
 
-**El aspecto de una persona no permite saber por sí solo si está sana, malnutrida o tiene un trastorno alimentario.**
+#### Bulimia nerviosa [⌕](../images/nutricion-bulimia.png)
 
-Tampoco corresponde burlarse, juzgar o hacer comentarios sobre el cuerpo de otras personas.
+La persona tiene episodios en los que **siente que pierde el control al comer** (no puede dejar de comer). Estos episodios son seguidos repetidamente por conductas destinadas a evitar aumentar de peso, como provocarse el vómito, ayunar o realizar ejercicio excesivo.
 
----
+### Actividad — Un problema que no se ve a simple vista
 
-# 5. El cuerpo que aparece en las redes
+::: activity
 
-Las redes sociales muestran constantemente cuerpos, dietas, rutinas de ejercicio y transformaciones físicas.
+Lean el siguiente caso:
 
-Pero una fotografía no muestra toda la realidad.
+> Martina tiene 15 años y desde hace varios meses está muy preocupada por su cuerpo. Frente a sus amigas dice que “come bastante normal”. Sin embargo, empezó a evitar algunas comidas cuando está con otras personas porque le preocupa cuánto está comiendo. En su casa, algunos días come mucho en poco tiempo y después se siente muy culpable. Al día siguiente intenta compensarlo comiendo muy poco y entrenando más tiempo en el gimnasio.
+>
+> Sus compañeros notaron que está más irritable y que muchas veces rechaza invitaciones para comer. Uno de ellos piensa que simplemente “está haciendo dieta” y que mientras no esté muy delgada no hay ningún problema.
 
-Puede haber:
+**En pareja:**
 
-* iluminación y poses;
-* filtros o edición;
-* selección de las mejores fotografías;
-* personas con características corporales diferentes;
-* rutinas, alimentación y condiciones que no conocemos.
+1. ¿Qué elementos del caso deberían llamar la atención?
+2. ¿Por qué no alcanza con observar si Martina está delgada, tiene sobrepeso o parece tener un peso normal?
+3. ¿Por qué sería incorrecto decir simplemente que “está haciendo dieta”?
+4. Si fueran sus compañeros, ¿qué podrían hacer para ayudarla sin juzgarla ni intentar diagnosticarla?
 
-Además, comparar nuestro cuerpo real con imágenes cuidadosamente seleccionadas puede generar insatisfacción.
+**Importante:** el objetivo no es diagnosticar a Martina. Se trata de reconocer que determinados comportamientos pueden indicar que existe un problema y que es necesario buscar ayuda.
 
-### Actividad 4 — ¿Consejo de salud o presión?
+:::
 
-Clasifiquen las siguientes frases en:
+::: warning
 
-**A. Consejo saludable**
-**B. Puede ser problemático**
-**C. Presión sobre la imagen corporal**
+Esta guía se aprueba mostrando las actividades escritas, respondiendo a alguna pregunta sobre la actividad del punto 4 y respondiendo esta pregunta: ¿qué comprendiste mejor después de trabajar este tema?
 
-1. “Dormí bien porque mañana tengo entrenamiento.”
-2. “Si no tenés abdominales, estás fuera de forma.”
-3. “Comé variado y suficiente para tener energía.”
-4. “Tenés que bajar cinco kilos para verte mejor.”
-5. “No hace falta que tu cuerpo sea igual al de alguien que ves en Instagram.”
-6. “No comas eso, engorda.”
-7. “Hacé actividad física porque te gusta y te hace bien.”
-8. “Si realmente quisieras tener un buen cuerpo, tendrías que entrenar todos los días.”
-
-Elijan **dos frases** que les parezcan especialmente problemáticas y expliquen por qué.
-
----
-
-# 6. Cuando la relación con la comida se convierte en un problema
-
-Preocuparse ocasionalmente por la alimentación o por el aspecto físico es algo que puede ocurrir durante la adolescencia. Sin embargo, algunas personas desarrollan una relación con la comida y con su cuerpo que afecta seriamente su salud.
-
-Los **trastornos de la conducta alimentaria (TCA)** son problemas de salud que requieren atención y acompañamiento profesional.
-
-### Anorexia nerviosa
-
-Es un trastorno en el que existe una preocupación intensa por el peso y la imagen corporal, acompañada por conductas que buscan controlar o reducir el peso. Puede producir una alimentación insuficiente y consecuencias graves para la salud.
-
-### Bulimia nerviosa
-
-Se caracteriza por episodios de pérdida de control sobre la alimentación y por conductas posteriores destinadas a compensarlos. También puede producir consecuencias importantes para la salud.
-
-No son simplemente “falta de voluntad” ni una elección.
-
-Una persona con un TCA **necesita ayuda y acompañamiento**, no críticas ni burlas.
-
-### Actividad 5 — ¿Qué harías?
-
-Una compañera comienza a:
-
-* preocuparse constantemente por su peso;
-* evitar cada vez más alimentos;
-* sentirse muy culpable después de comer;
-* hacer ejercicio de manera excesiva;
-* aislarse durante las comidas.
-
-No tienen que diagnosticarla.
-
-Respondan:
-
-1. ¿Qué señales les llaman la atención?
-2. ¿Por qué no sería conveniente hacerle comentarios sobre su cuerpo?
-3. ¿Qué podría hacer un amigo o compañero para ayudar?
-4. ¿A qué adulto de confianza podría recurrir?
-
----
-
-# 7. Pensar antes de seguir un consejo
-
-Antes de aceptar un consejo sobre alimentación, podemos hacernos algunas preguntas:
-
-**¿Quién lo dice?**
-
-**¿En qué información se basa?**
-
-**¿Promete resultados demasiado rápidos?**
-
-**¿Propone eliminar muchos alimentos?**
-
-**¿Hace sentir culpa o vergüenza por comer?**
-
-**¿Presenta un cuerpo determinado como el único cuerpo saludable o atractivo?**
-
-**¿Recomienda suplementos sin conocer las necesidades de la persona?**
-
-Un consejo que funciona para una persona no necesariamente funciona para otra.
-
----
-
-# Actividad 6 — El mensaje de las redes
-
-Imaginen que ven esta publicación:
-
-> “¡Cambiá tu cuerpo en 30 días!
-> Eliminá pan, pastas y azúcar.
-> Entrená todos los días.
-> Tomá este suplemento y conseguí el cuerpo que siempre quisiste.
-> Si realmente querés cambiar, tenés que comprometerte.”
-
-En pareja:
-
-1. Escriban **tres razones** para desconfiar de esta publicación.
-2. ¿Qué información importante no proporciona?
-3. Transformen el mensaje en un consejo más saludable y realista.
-
----
-
-# Para cerrar: alimentación y salud
-
-No existe una alimentación perfecta.
-
-Cuidar nuestra salud implica desarrollar hábitos que podamos mantener: una alimentación variada, suficiente agua, actividad física, descanso adecuado y una relación saludable con nuestro cuerpo y con la comida.
-
-También significa saber reconocer cuándo una preocupación por la alimentación o por la imagen corporal está empezando a convertirse en un problema.
-
-**Pedir ayuda no es exagerar: es una forma de cuidarse.**
-
----
-
-# Evaluación grupal
-
-Resuelvan en grupo.
-
-### Caso
-
-Un adolescente de 16 años quiere empezar el gimnasio. Mira videos de personas musculosas y decide que necesita cambiar rápidamente su cuerpo. Empieza a saltear comidas, elimina los hidratos de carbono, compra suplementos y aumenta mucho sus horas de entrenamiento. Sus amigos comienzan a hacer comentarios sobre su cuerpo y sobre cuánto come.
-
-**1.** Identifiquen al menos cuatro problemas o riesgos presentes en la situación.
-
-**2.** Expliquen qué relación pueden tener la alimentación, el ejercicio, el descanso y la salud.
-
-**3.** Escriban tres recomendaciones concretas que podrían darle sus amigos.
-
-**4.** ¿En qué momento sería importante pedir ayuda a un adulto o profesional?
-
----
-
-# Evaluación individual
-
-Respondé con tus propias palabras.
-
-**1.** ¿Por qué una persona que hace ejercicio también necesita hidratos de carbono?
-
-**2.** ¿Por qué consumir más proteínas no significa necesariamente obtener más beneficios?
-
-**3.** Explicá qué entendés por malnutrición.
-
-**4.** ¿Por qué las redes sociales pueden influir negativamente sobre la imagen corporal?
-
-**5.** Escribí dos señales que podrían indicar que una persona está desarrollando una relación problemática con la comida.
-
-**6.** ¿Qué diferencia hay entre hacer una elección alimentaria saludable y sentir que hay que controlar permanentemente el cuerpo y la comida?
-
-**7.** Escribí una idea que hayas cambiado, confirmado o comprendido mejor después de trabajar este tema.
-
-</div>
-
+:::
 
 
 
