@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Salud mental - parte 1</title>
+  <style>
+
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+</style>
+  <style type="text/css">:root {--black: #000000--light-gray-1: #f2f2f2; --light-gray-2: #cccccc; --light-gray-3: #b3b3b3; --mid-gray: #999999; --dark-gray-1: #808080; --dark-gray-2: #666666; --dark-gray-3: #555555; --dark-gray-4: #333333; --dark-gray-5: #222222; --zebra-bg: #f8f8f8; --blue-1: #6495ed; --blue-2: #276cdf; --blue-3: #003366; --blue-4: #2f5597; --blue-5: #184965; --blue-6: #1f4e79; --cyan-1: #7dbed8; --cyan-2: #27a2db; --green-1: #81b524; --red-1: #ec5469; --red-2: #f44336; --rose-1: #ec9998; --gold-1: #df9d43; --orange-1: #fda556; --orange-2: #ff9505; --purple-1: #ff40ff; --purple-2: #d164d7; }:root {--text-color: var(--dark-gray-5); --secondary-text-color: var(--dark-gray-4); --title-color: var(--blue-6); --heading-color: var(--dark-gray-5);--border-color: var(--light-gray-3); --example-border-color: var(--blue-6); --solutions-text-color: var(--dark-gray-1); --warning-color: var(--orange-2); --note-color: var(--dark-gray-2);--error-color: var(--red-2); --figure-caption-color: var(--dark-gray-3); --figure-source-color: var(--dark-gray-2); --background-color: #FFFFFF; --example-background-color: #FFFFFF; }body {font-family: Arial, sans-serif;font-size: 1.3em;color: var(--text-color);line-height: 1.4;margin: auto;padding: 1.5em;}h1 {color: var(--title-color); border-bottom: 1px solid var(--border-color);padding-bottom: 0.3em;}h2 {margin-top: 1.8em;margin-bottom: 0.4em;color: var(--heading-color);}h3 {margin-top: 1.1em;margin-bottom: 0.3em;color: var(--heading-color);}ol {list-style: none;counter-reset: item;margin-left: 0;padding-left: 0.5em; }ol > li {counter-increment: item;}ol > li::before {content: counter(item) ") ";font-weight: bold;}blockquote {margin: 1em 0;padding: 0 15px;color: var(--dark-gray-2);border-left: 4px solid var(--light-gray-2);}table {border-collapse: collapse;width: 100%;margin: 1em 0;}table th, table td {padding: 6px 13px;border: 1px solid var(--light-gray-2);}table th {font-weight: bold;background-color: var(--light-gray-1);}table tr:nth-child(2n) {background-color: var(--zebra-bg);}code {font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;font-size: 85%;background-color: rgba(0,0,0,0.04);padding: 0.2em 0.4em;border-radius: 3px;}pre {padding: 16px;overflow: auto;font-size: 85%;line-height: 1.45;background-color: var(--light-gray-1);border-radius: 3px;margin-bottom: 16px;}pre code {background-color: transparent;padding: 0;font-size: 100%;}a {color: var(--blue-6);text-decoration: none;}a:hover {text-decoration: underline;}.example {display: block;background: var(--example-background-color);margin: 0.6em 0;padding-left: 0.6em; border-left: 2px solid var(--example-border-color);}.activity {margin: 0.6em 0;padding-left: 0.6em; }.solutions {display: block;margin-top: 0.6em;font-size: 0.85em; color: var(--solutions-text-color);}.warning {display: block;font-size: 0.8em;color: var(--warning-color);}.note {display: block;margin: 0.6em 0;padding-left: 0.6em; color: var(--note-color);font-size: 0.8em;}.figure {display: block;text-align: center;margin: 1.5em auto;}.figure img {display: block;max-width: 100%;height: auto;margin: 0 auto 0 auto; }.figure small {display: block;font-size: 0.7em;color: var(--figure-caption-color);margin-top: -0.5em }code .kw { color: #000000; font-weight: bold; } code .dt { color: #ed6a43; } code .dv { color: #009999; } code .bn { color: #009999; } code .fl { color: #009999; } code .ch { color: #009999; } code .st { color: #183691; } code .co { color: #969896; font-style: italic; }code .ot { color: #0086b3; } code .al { color: #a61717; font-weight: bold; } code .fu { color: #63a35c; } code .er { color: #a61717; background-color: #e3d2d2; } code .cn { color: #008080; } code .cf { color: #000000; font-weight: bold; } code .op { color: #000000; } code .bu { color: #000000; } code .pp { color: #999999; font-weight: bold; } code .va { color: #008080; } @media print {:root {--text-color: #000000;--secondary-text-color: #333333;--title-color: #000000; --heading-color: #000000;--border-color: #999999;--example-border-color: #555555;--figure-caption-color: #333333;--figure-source-color: #555555;--solutions-text-color: #444444;--note-color: #000000;--warning-color: #000000;--error-color: #000000;--background-color: #FFFFFF;--example-background-color: #FFFFFF;}@page {size: A4;margin: 1.2cm;}body {font-family: Arial, Helvetica, sans-serif;font-size: 10.5pt;line-height: 1.35;color: #000;column-fill: auto; column-count: 2;column-gap: 1cm;}h1 { font-size: 14pt; margin: 0 0 6pt 0; }h2 { font-size: 12pt; margin: 8pt 0 4pt 0; }h3 { font-size: 11pt; margin: 6pt 0 3pt 0; }h1, h2, h3 {break-after: avoid;break-inside: avoid;}p {margin: 0 0 4pt 0;text-align: justify;}blockquote {border-left: 3px solid #666666;color: #333333;margin: 6pt 0;padding-left: 8pt;}ul, ol {margin: 0 0 4pt 12pt;padding: 0;}li { margin-bottom: 2pt; }code, pre {font-family: "Courier New", Courier, monospace;font-size: 9.5pt;background: var(--light-gray-1);padding: 1px 3px;border-radius: 2px;}pre {padding: 6pt;overflow: hidden;break-inside: avoid;}img {max-width: 100%;height: auto;break-inside: avoid;margin: 12pt auto; }table {width: 100%;border-collapse: collapse;font-size: 9.5pt;}th, td {border: 1px solid #000;padding: 3pt;}table tr:nth-child(2n) {background-color: var(--light-gray-1); }nav, footer, .no-print {display: none;}.example,.activity,.solutions,.note,.warning,blockquote {break-inside: avoid;}}</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Salud mental - parte 1</h1>
+</header>
+<!-- *** GUIDE START *** -->
+<h2 id="comprender-el-bienestar-y-los-problemas-de-salud-mental">Comprender
+el bienestar y los problemas de salud mental</h2>
+<h3 id="qué-significa-estar-bien">1. ¿qué significa estar bien?</h3>
+<p>Vimos cosas, en las clases sobre felicidad y sobre el concepto de
+salud, que nos aportan material para pensar y tirar buenas ideas sobre:
+<strong>¿Qué necesita una persona para estar bien?</strong></p>
+<h4 id="actividad">Actividad</h4>
+<div class="activity">
+<p><strong>a)</strong> Piensa, haz una selección y anota 5 buenas ideas
+sobre <strong>¿Qué necesita una persona para estar bien
+realmente?</strong></p>
+<p><strong>b)</strong> Anotar esta idea y criticarla señalando si estás
+plenamente de acuerdo o que cosas sacarías o agregarías: <em>La salud
+mental es parte de la salud. No significa estar siempre feliz ni no
+tener problemas. Significa poder afrontar las dificultades, relacionarse
+con los demás y desarrollar la propia vida.</em></p>
+</div>
+<h3 id="la-historia-de-martín">2. La historia de Martín</h3>
+<p>Martín tiene 15 años y hasta hace unos meses era uno de los chicos
+que más participaba en las actividades de la escuela. Le gustaba
+especialmente trabajar con sus compañeros en los proyectos prácticos y
+después de clase solía quedarse jugando al fútbol con algunos
+amigos.</p>
+<p>Desde que comenzó el año, las cosas fueron cambiando poco a poco.</p>
+<p>Primero empezó a quedarse despierto hasta tarde. Decía que tenía que
+terminar trabajos, aunque muchas veces terminaba mirando videos o
+jugando con el celular. Al día siguiente llegaba cansado y durante las
+primeras horas de clase le costaba concentrarse.</p>
+<p>También empezó a preocuparse bastante por sus notas. Había
+desaprobado dos evaluaciones y comenzó a pensar que no era tan capaz
+como sus compañeros. Cuando alguien le decía que una prueba había sido
+fácil, Martín respondía con un “sí, claro” y cambiaba de tema.</p>
+<p>En el grupo de amigos también habían cambiado algunas cosas. Dos de
+sus compañeros empezaron a salir con otras personas y se juntaban menos
+con él. Martín decía que no le importaba, pero dejó de proponer
+encuentros y comenzó a rechazar algunas invitaciones.</p>
+<p>En su casa, sus padres estaban atravesando un período de mucho
+trabajo y discusiones por cuestiones económicas. Martín trataba de no
+agregar problemas y prefería quedarse en su habitación. Cuando su madre
+le preguntaba qué le pasaba, contestaba:</p>
+<p>—Nada. Estoy cansado.</p>
+<p>Con el tiempo dejó de jugar al fútbol. También dejó de participar
+tanto en los proyectos de la escuela. Cuando tenía que trabajar en
+grupo, hacía su parte rápidamente y evitaba hablar demasiado.</p>
+<p>Una tarde, uno de sus amigos, Tomás, le escribió para invitarlo a
+jugar. Martín respondió:</p>
+<p>—No tengo ganas. Además, soy bastante malo para todo últimamente.</p>
+<p>Tomás le preguntó qué quería decir.</p>
+<p>Martín tardó unos minutos en responder:</p>
+<p>—No sé. Siento que todos avanzan menos yo.</p>
+<p>Al día siguiente, durante una clase, Martín se equivocó al presentar
+un trabajo. Algunos compañeros se rieron. No fue una situación
+especialmente grave y la clase continuó normalmente, pero Martín
+permaneció callado el resto de la hora.</p>
+<p>Cuando terminó la clase, un compañero se acercó y le dijo:</p>
+<p>—Che, últimamente estás medio desaparecido. ¿Está todo bien?</p>
+<p>Martín estuvo a punto de contestar “sí, nada que ver”, como hacía
+siempre. Pero esta vez dijo:</p>
+<p>—La verdad, no sé. Estoy cansado de todo.</p>
+<p>El compañero no supo muy bien qué responder.</p>
+<p>Pensó que quizá Martín solamente necesitaba distraerse un poco.
+También dudó si contarle a alguien lo que había dicho, porque tenía
+miedo de que Martín se enojara o pensara que estaba exagerando.</p>
+<p>Finalmente le preguntó:</p>
+<p>—¿Querés que hablemos con alguien?</p>
+<p>Martín no respondió enseguida. Después dijo:</p>
+<p>—Puede ser.</p>
+<h4 id="actividad-1">Actividad</h4>
+<div class="activity">
+<p>Sin tratar de <strong>diagnosticar</strong> a Martín, por que eso
+corresponde a los profesionales, piensen y respondan las siguientes
+preguntas: <strong>1.</strong> ¿Qué cambios observan?
+<strong>2.</strong> ¿Cuáles podrían ser señales de que algo no está
+bien? <strong>3.</strong> ¿Qué cosas podrían estar influyendo?
+<strong>4.</strong> ¿Qué podría hacer un amigo? <strong>5.</strong> ¿A
+quién podría recurrir? <strong>6.</strong> ¿Qué cosas
+<strong>no</strong> ayudarían?</p>
+<p>Luego haremos una puesta en común sobre esto. Es importante entender
+la diferencia entre: <strong>problema cotidiano → estrés → malestar
+persistente → posible problema de salud mental</strong></p>
+</div>
+<h3 id="el-semáforo">3. El semáforo</h3>
+<p>Sigamos reflexionando sobre situaciones a través de un semáforo.</p>
+<h4 id="actividad-2">Actividad</h4>
+<div class="activity">
+<p>Esta tarea es individual, cada uno la hace por su cuenta. Se trata de
+clasificar cada situación con un color: 🟢 (verde) <strong>Situación que
+puedo afrontar</strong>; 🟡 (amarillo) <strong>Necesito hablarlo / pedir
+ayuda</strong>; 🔴 (rojo) <strong>Necesito ayuda urgente</strong></p>
+<p>Escribir cada situación y clasificarla: * desaprobar una prueba *
+discutir con un amigo * estar muy preocupado por una evaluación * sufrir
+burlas todos los días * dejar de juntarse con los amigos * no tener
+ganas de hacer nada durante mucho tiempo * sentirse permanentemente
+inútil * pensar que sería mejor no estar</p>
+</div>
+<h3 id="cierre-individual">4. Cierre individual</h3>
+<p>Escribe un parrafo respondiendo las siguientes preguntas: ¿Qué
+aprendí hoy sobre salud mental? ¿Qué cosas pueden ayudar a una persona
+que está pasando un mal momento? ¿Qué cosas pueden empeorar la
+situación?</p>
+<div class="warning">
+<p>Esta guía se aprueba mostrando las actividades escritas y
+respondiendo alguna pregunta sobre el cierre individual.</p>
+</div>
+<!-- *** GUIDE END *** -->
+<!-- *** GUIDE AUXILIARY THINGS *** -->
+<!--
+
+● Sections: example, activity. solutions, figure, warning, note
+
+::: example
+### Ejemplo: Cálculo de derivadas
+Aquí va el contenido de tu ejemplo. Puedes usar Markdown normal adentro.
+:::
+
+
+● Image:
+
+::: figure
+![](imagen.png){width=400px}
+
+<small>Pie (Source)</small>
+:::
+
+[⌕](../../images/ ) 
+
+● Videos:
+
+ Change XXX to video-id and put time in seconds
+
+ - Yotube with start point: [Mira este momento clave en el video](https://www.youtube.com/watch?v=XXX&t=123s)
+
+ - Youtubetrimmer with start and end point: [Mirá este momento puntual del video](https://youtubetrimmer.com/view/?v=XXX&start=120&end=150&loop=0)
+
+-->
+</body>
+</html>

@@ -153,9 +153,8 @@ Dos años más tarde, sufrió una complicación cardiovascular que le dejó difi
 :::
 
 ::: warning
-Para aprobar esta guía cada integrante debe presentar su parte escrita y responder las preguntas que le hace el profesor.
+Esta guía no es obligatoria aprobarla pero presentarla individualmente y responder alguna pregunta aporta puntaje en la nota final del periodo.
 :::
-
 <!-- *** GUIDE END *** -->
 
 

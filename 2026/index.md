@@ -54,11 +54,18 @@ version: "01/04/26"
 - [6. Historia de la salud pública en Argentina](06_historia_salud.html)
 
 - [7. Prevención y niveles de prevención en salud](07_prevencion.html)
+   <br>&emsp;<span class="grey3 size70">No es obligatoria pero aporta puntos a la nota final de los que aprueban.</span> 
 
 - [8. Salud y desarrollo social: un virus](04_salud_derecho_anexo.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 5: desarrollar todos los puntos.</span> 
 
 - [9. Nutrición y adolescencia](08_nutricion.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 6: Presentar esta guía completa.</span> 
+
+- [10. Salud mental - parte 1](09_salud_mental_1.html)
+
+- [11. Salud mental - parte 2](10_salud_mental_2.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 7: Presentar esta guía completa.</span> 
 
 
 
