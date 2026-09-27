@@ -70,8 +70,19 @@ version: "01/04/25"
 
 ---
 
-**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
+**Verifica** tus pendientes [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave la que corresponda según el listado de abajo:
 
+- Cordoba, Dante: coda
+- Dos Santos, Williams Valentin: dosawiva
+- Lozano Pedrozo, Facundo Rafael: lopefara
+- Spinelli, Máximo Abel: spmaab
+- Velardis Beroni, Darien: vebeda
+
+**Intensificación:** Hay que hacer y presentar las guías en donde aparece una "P" (pendiente) y/o que no aparezca nada (nunca entregada). Consultar si hay dudas.  
+
+<div hidden>
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
+</div>
 
 <!-- HTML style definitions -->
 <style>
