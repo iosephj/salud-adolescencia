@@ -63,8 +63,10 @@ version: "01/04/26"
 - [11. Salud mental - parte 2](10_salud_mental_2.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 7: Presentar esta guía completa.</span> 
 
-- [12. Sexualidad y persona](12_sexualidad_persona.html)
+- [12. Sexualidad y persona](11_sexualidad_persona.html)
 
+- [13. Persona, Género y Convivencia](12_identidad_genero.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 8: Desarrollar todas las actividades.</span> 
 
 <span hidden>Fin archivo</span>
 
