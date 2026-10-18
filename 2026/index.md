@@ -21,11 +21,8 @@ version: "01/04/26"
    + **Bimestre 1:** Tener **A** en Guía 2 y 3.
    + **Bimestre 2:** Tener **A** en las Guías 4, 5, y 6.
 
-
-<div class hidden>
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
-   + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
-</div>
+   + **Bimestre 3:** Tener **A** en Guías 8, 9 y 10 (la 7 es opcional)
 
 
 </div>
@@ -55,7 +52,6 @@ version: "01/04/26"
 
 - [7. Prevención y niveles de prevención en salud](07_prevencion.html)
    <br>&emsp;<span class="grey3 size70">No es obligatoria pero aporta puntos a la nota final de los que aprueban.</span> 
-
 - [8. Salud y desarrollo social: un virus](04_salud_derecho_anexo.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 5: desarrollar todos los puntos.</span> 
 
@@ -67,21 +63,7 @@ version: "01/04/26"
 - [11. Salud mental - parte 2](10_salud_mental_2.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 7: Presentar esta guía completa.</span> 
 
-
-
-<div class hidden>
-
-- [9. Nutrición y adolescencia (Alternancia 5)](09_nutricion.html)
-
-- [10. Salud_mental](10_salud_mental.html)
-
-- [11. Sexualidad y persona](11_sexualidad_persona.html)
-
-- [12. Escuela, comunidad, salud](12_escuela_comunidad.html)
-
-- [13. Promotores de la salud. Aprender y servir.](13_servicio.html)
-
-</div>
+- [12. Sexualidad y persona](12_sexualidad_persona.html)
 
 
 <span hidden>Fin archivo</span>
